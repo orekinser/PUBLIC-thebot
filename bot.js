@@ -48,39 +48,39 @@
 	   if(msg.content.startsWith("!raysu")){
 		   var rnd = Random(33,1);
   switch(rnd){
-		  case 1:msg.channel.sendMessage("喂~~");break;
-		  case 2:msg.channel.sendMessage("蛤 我剛剛沒關麥嗎");break;
-		  case 3:msg.channel.sendMessage("ㄜ據我所知");break;
-		  case 4:msg.channel.sendMessage("ㄜ巨根嗦汁");break;
-		  case 5:msg.channel.sendMessage("你講這話就是要讓我生氣啊!");break;
-		  case 6:msg.channel.sendMessage("我不是很早就說過了嗎!");break;
-		  case 7:msg.channel.sendMessage("我看你是不想活了");break;
-		  case 8:msg.channel.sendMessage("什麼雞雞棒");break;
-		  case 9:msg.channel.sendMessage("喔那個札記~");break;
-		  case 10:msg.channel.sendMessage("豆皮rAYsU");break;
-		  case 11:msg.channel.sendMessage("https://imgur.com/a/264Ee7R");break;
-		  case 12:msg.channel.sendMessage("你知道我聽得到嗎");break;
-		  case 13:msg.channel.sendMessage("關我屁事啊~?");break;
-		  case 14:msg.channel.sendMessage("?_?");break;
-		  case 15:msg.channel.sendMessage("-.-");break;
-		  case 16:msg.channel.sendMessage(":question: ");break;
-		  case 17:msg.channel.sendMessage("這故事告訴我們");break;
-		  case 18:msg.channel.sendMessage("當你講出這句話的時候");break;
-		  case 19:msg.channel.sendMessage("你什麼意思");break;
-		  case 20:msg.channel.sendMessage(":question: ");break;
-		   case 21:msg.channel.sendMessage("ㄟ屁啦");break;
-		   case 22:msg.channel.sendMessage("好啊都這樣啊");break;
-		   case 23:msg.channel.sendMessage("蛤~~");break;
-		   case 24:msg.channel.sendMessage("你媽逼啦");break;
-		   case 25:msg.channel.sendMessage("我真的按了ㄟ");break;
-		   case 26:msg.channel.sendMessage("靠腰阿");break;
-		   case 27:msg.channel.sendMessage("啥小啦");break;
-		   case 28:msg.channel.sendMessage("你大便啦");break;
-		   case 29:msg.channel.sendMessage("我卡了啦!");break;
-		   case 30:msg.channel.sendMessage("👍🏿");break;
-		   case 31:msg.channel.sendMessage("小皮RaySu誰啦~~?");break;
-	           case 32:msg.channel.sendMessage("白癡");break;
-		   case 33:msg.channel.sendMessage("你覺得呢?");break;
+		  case 1:msg.channel.send("喂~~");break;
+		  case 2:msg.channel.send("蛤 我剛剛沒關麥嗎");break;
+		  case 3:msg.channel.send("ㄜ據我所知");break;
+		  case 4:msg.channel.send("ㄜ巨根嗦汁");break;
+		  case 5:msg.channel.send("你講這話就是要讓我生氣啊!");break;
+		  case 6:msg.channel.send("我不是很早就說過了嗎!");break;
+		  case 7:msg.channel.send("我看你是不想活了");break;
+		  case 8:msg.channel.send("什麼雞雞棒");break;
+		  case 9:msg.channel.send("喔那個札記~");break;
+		  case 10:msg.channel.send("豆皮rAYsU");break;
+		  case 11:msg.channel.send("https://imgur.com/a/264Ee7R");break;
+		  case 12:msg.channel.send("你知道我聽得到嗎");break;
+		  case 13:msg.channel.send("關我屁事啊~?");break;
+		  case 14:msg.channel.send("?_?");break;
+		  case 15:msg.channel.send("-.-");break;
+		  case 16:msg.channel.send(":question: ");break;
+		  case 17:msg.channel.send("這故事告訴我們");break;
+		  case 18:msg.channel.send("當你講出這句話的時候");break;
+		  case 19:msg.channel.send("你什麼意思");break;
+		  case 20:msg.channel.send(":question: ");break;
+		   case 21:msg.channel.send("ㄟ屁啦");break;
+		   case 22:msg.channel.send("好啊都這樣啊");break;
+		   case 23:msg.channel.send("蛤~~");break;
+		   case 24:msg.channel.send("你媽逼啦");break;
+		   case 25:msg.channel.send("我真的按了ㄟ");break;
+		   case 26:msg.channel.send("靠腰阿");break;
+		   case 27:msg.channel.send("啥小啦");break;
+		   case 28:msg.channel.send("你大便啦");break;
+		   case 29:msg.channel.send("我卡了啦!");break;
+		   case 30:msg.channel.send("👍🏿");break;
+		   case 31:msg.channel.send("小皮RaySu誰啦~~?");break;
+	           case 32:msg.channel.send("白癡");break;
+		   case 33:msg.channel.send("你覺得呢?");break;
   }
 }
     }) ;
@@ -122,18 +122,18 @@ client.on('message',msg=>{
 	   if(msg.content.includes("幹")){
 		   var rnd = Random(12,1);
   switch(rnd){
-		  case 1:msg.channel.sendMessage("你罵誰啦");break;
-		  case 2:msg.channel.sendMessage("你娘老雞掰");break;
-		  case 3:msg.channel.sendMessage("幹你就繼續罵");break;
-		  case 4:msg.channel.sendMessage("怎樣你罵髒話是想吵架是不是");break;
-		  case 5:msg.channel.sendMessage("你在跟我幹幹叫什麼啦");break;
-		  case 6:msg.channel.sendMessage("吵三小");break;
-		  case 7:msg.channel.sendMessage("閉嘴啦臭肛門");break;
-		  case 8:msg.channel.sendMessage("幹什麼幹啦");break;
-		  case 9:msg.channel.sendMessage("他媽的你算三小");break;
-		  case 10:msg.channel.sendMessage("不要跟我屁話");break;
-		  case 11:msg.channel.sendMessage("機掰三小 你當你是老大喔");break;
-		  case 12:msg.channel.sendMessage("北七一個 幹你媽啦幹");break;
+		  case 1:msg.channel.send("你罵誰啦");break;
+		  case 2:msg.channel.send("你娘老雞掰");break;
+		  case 3:msg.channel.send("幹你就繼續罵");break;
+		  case 4:msg.channel.send("怎樣你罵髒話是想吵架是不是");break;
+		  case 5:msg.channel.send("你在跟我幹幹叫什麼啦");break;
+		  case 6:msg.channel.send("吵三小");break;
+		  case 7:msg.channel.send("閉嘴啦臭肛門");break;
+		  case 8:msg.channel.send("幹什麼幹啦");break;
+		  case 9:msg.channel.send("他媽的你算三小");break;
+		  case 10:msg.channel.send("不要跟我屁話");break;
+		  case 11:msg.channel.send("機掰三小 你當你是老大喔");break;
+		  case 12:msg.channel.send("北七一個 幹你媽啦幹");break;
   }
 }
     }) ;
@@ -142,9 +142,9 @@ client.on('message',msg=>{
 	   if(msg.content.startsWith("@retard_Confirm#0335 你在嗎")){
 		   var rnd = Random(3,1);
   switch(rnd){
-		  case 1:msg.channel.sendMessage("他媽的想怎樣");break;
-		  case 2:msg.channel.sendMessage("林北在休息你在吵屁喔");break;
-		  case 3:msg.channel.sendMessage("廢話 當你看著右邊的上線欄還問這個問題我就知道你是個智障了");break;
+		  case 1:msg.channel.send("他媽的想怎樣");break;
+		  case 2:msg.channel.send("林北在休息你在吵屁喔");break;
+		  case 3:msg.channel.send("廢話 當你看著右邊的上線欄還問這個問題我就知道你是個智障了");break;
   }
 }
     }) ;
