@@ -1,1 +1,1 @@
-# 垃圾機器人沒有之一
+# thebot Is A Trash Bot. He will give you lots of shit and useless words.
